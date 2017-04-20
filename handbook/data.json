@@ -1,0 +1,57 @@
+{
+"title":"Main menu",
+"Up":"Up",
+"listMain":[{
+        "id"   : "list1", 
+        "name" : "Name list 1"
+    },{
+        "id"   : "list2",
+        "name" : "Name list 2"
+    },{ 
+        "id"   : "list3",
+        "name" : "Name list 3"
+    },{
+        "id"   : "list4",    
+        "name" : "Name list 4"
+}],
+"list1":[{
+        "id"   : "main", 
+        "name" : "Up"
+    },{
+        "id"   : "1", 
+        "name" : "Article 1"
+    },{
+        "id"   : "2",
+        "name" : "Article 2"
+    },{
+        "id"   : "3",
+        "name" : "Article 3"
+    },{
+        "id"   : "4",
+        "name" : "Article 4"
+    }],
+"list2":[{
+        "id"   : "main", 
+        "name" : "Up"
+    },{
+        "id"   : "1", 
+        "name" : "Article 11"
+    },{
+        "id"   : "2",
+        "name" : "Article 12"
+    },{ 
+        "id"   : "3",
+        "name" : "Article 13"
+    },{
+        "id"   : "4",    
+        "name" : "Article 14"
+    }],
+"list3":[{
+		"id"   : "main",
+		"name" : "Up"
+	}],
+"list4":[{
+		"id"   : "main",
+		"name" : "Up"
+	}]
+}
